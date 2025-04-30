@@ -41,7 +41,7 @@ Result:
 Example result after successful basic SQL Injection:
 
 ```markdown
-![SQL Injection Result Example](../images/sqli_basic_id_injection_result.png)
+![SQL Injection Result Example](./images/sqli_basic_id_injection_result.png)
 ```
 
 ---
