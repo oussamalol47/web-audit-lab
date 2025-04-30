@@ -40,9 +40,7 @@ Result:
 
 Example result after successful basic SQL Injection:
 
-```markdown
-![SQL Injection Result Example](./images/sqli_basic_id_injection_result.png)
-```
+<pre> <p align="center"> <img src="../sql_injection/images/sqli_basic_id_injection_result.PNG" alt="Basic Sqli result" width="600"/> </p>  </pre>
 
 ---
 
@@ -83,7 +81,7 @@ audit-web/sql_injection/scripts/test_basic_sqli_id.py
 The script uses:
 
 - `requests`
-- `BeautifulSoup` (optional)
+- `BeautifulSoup`
 
 Purpose:
 
