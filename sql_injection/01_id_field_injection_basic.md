@@ -44,12 +44,6 @@ Example result after successful basic SQL Injection:
 ![SQL Injection Result Example](../images/sqli_basic_id_injection_result.png)
 ```
 
-Make sure you put the image inside:
-
-```plaintext
-audit-web/sql_injection/images/sqli_basic_id_injection_result.png
-```
-
 ---
 
 ## 4. Internal Behavior (SQL Query)
