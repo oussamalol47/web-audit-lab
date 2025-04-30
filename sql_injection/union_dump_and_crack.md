@@ -209,7 +209,7 @@ john --format=raw-md5 --wordlist=/usr/share/wordlists/rockyou.txt users_and_hash
 john --show --format=raw-md5 users_and_hashes.txt
 ```
 ---
-<pre> <p align="center"> <img src="../images/sqli_union_password_cracking.PNG" alt="Cracked Passwords Output" width="600"/> </p> <p align="center"><em>Figure: John the Ripper successfully cracking password hashes obtained via UNION-based SQL Injection</em></p> </pre>
+<pre> <p align="center"> <img src="../sql_injection/images/sqli_union_password_cracking.PNG" alt="Cracked Passwords Output" width="600"/> </p> <p align="center"><em>Figure: John the Ripper successfully cracking password hashes obtained via UNION-based SQL Injection</em></p> </pre>
 ---
 
 ## 💡 Tips
